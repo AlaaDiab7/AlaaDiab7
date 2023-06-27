@@ -7,7 +7,10 @@
     <i>
       I'm Alaa.<br>
       I am a Civil Engineer with a master's in Computational Mechanics.<br>
-      This includes programming knowledge in C++, FORTRAN, MATLAB, Python. and Java.<br>
+      This includes programming knowledge in C++, FORTRAN, MATLAB, Python. and Java. and a lot more  :) <br>
+      Always with a laugh and positivity explore the life <br>
+        One more thing...<br> 
+        I am a self-programmer with non-stop learning and developing settings <br> 
     </i><br>
     <a href="https://www.linkedin.com/in/alaa-diab-2aa85a99/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -20,6 +23,10 @@
     </a>
     <a href="https://leetcode.com/alaadiab">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+    <a href="https://jovian.com/mojgan-khoshchehreh">
+       <img src="https://img.shields.io/badge/Jovian-blue?style=flat-square&logo=Jovian" alt="Jovian"> 
+       <!-- <img src="https://jovian.com/jovian_logo.svg" alt="Jovian"> -->
     </a>
 </p>
 
