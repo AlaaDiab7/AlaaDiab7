@@ -1,4 +1,3 @@
-# AlaaDiab
 
 <h1 align="center">Hi, guys! <img src="https://github.com/AlaaDiab7/storage-asset/blob/main/HandWaves.gif" width="28px" alt="👋"></h1>
 
